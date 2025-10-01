@@ -7,7 +7,7 @@ console.log("🎮 CMPM 121 - Starting...");
 
 // Simple counter for demonstration
 // deno-lint-ignore prefer-const
-let counter: number = 0;
+let counter: number = 3;
 
 // Create basic HTML structure
 document.body.innerHTML = `
